@@ -2,3 +2,6 @@
   + `git add ./ readme.me`
 2.把仓储门口的额代码放到里面的房间中去
     `git commit -m` ""1111
+
+3. 查看仓库状态码
+    `git status`
